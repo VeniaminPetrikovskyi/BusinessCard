@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">Veniamin Petrikovskyi</string>
+    <string name="title">Full Stack Developer!</string>
+    <string name="number">1234567890</string>
+    <string name="mail">testing@best.com</string>
+</resources>
